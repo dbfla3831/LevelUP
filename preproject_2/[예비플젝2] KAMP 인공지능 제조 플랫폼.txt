@@ -1,0 +1,20 @@
+[예비플젝2] KAMP 인공지능 제조 플랫폼
+
+1. 선택한 데이터셋
+https://www.kamp-ai.kr/aidataDetail?AI_SEARCH=&page=2&DATASET_SEQ=28&EQUIP_SEL=&GUBUN_SEL=&FILE_TYPE_SEL=C005002&WDATE_SEL=
+
+⚝ 각자 진행한 코드는 깃허브에 올리기
+https://github.com/dbfla3831/LevelUP
+
+2. 2/28(수) - 29(목)
+가이드북 참고해서 데이터 분석 해보기
+(문제 있었던거 정리, 추가적으로 진행할 전처리, 알고리즘, 분석 방법 생각)
+
+3. 3/1(금) - 3(일)
+확정된 사항으로 추가 분석 진행
+
+4. 3/4(월)
+발표 자료 만들기
+
+5. 3/5(화)
+발표
